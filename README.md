@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atsuhikotakahashi
 - 👀 I’m interested in ...bonsai
-- 🌱 I’m currently learning ...html css
+- 🌱 I’m currently learning ...GPT
 - 💞️ I’m looking to collaborate on ... anytime
 - 📫 How to reach me ... threads
 
